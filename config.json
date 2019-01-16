@@ -1,16 +1,2 @@
 {
-  "token": "NTI1NjQ4NjAyNDMzODQ3MzA2.Dv5yCQ.aZAtUo7vr-dI4A13o6ok0_pRHTw",
-  "mailGuildId": "525653890981560320",
-  "mainGuildId": "501442997607727124",
-  "logChannelId": "525655026690031671",
-  "newThreadCategoryId": "525654488145723392",
-  
-  "ignoreAccidentalThreads": "true",
-  "typingProxy": "true",
-  "typingProxyReverse": "true",
-  "requiredAccountAge": "24",
-
-  "status": "Message me for help!",
-  "responseMessage": "Thank you for contacting us! Our staff team will reply to you as soon as possible!",
-  "accountAgeDeniedMessage": "Your Discord account is not old enough to contact me!"
 }
