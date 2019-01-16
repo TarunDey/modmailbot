@@ -40,21 +40,21 @@ try {
 }
 
 const defaultConfig = {
-  "token": null,
-  "mailGuildId": null,
-  "mainGuildId": null,
-  "logChannelId": null,
+  "token": 'NTI1NjQ4NjAyNDMzODQ3MzA2.Dv5yCQ.aZAtUo7vr-dI4A13o6ok0_pRHTw',
+  "mailGuildId": "525653890981560320",
+  "mainGuildId": "501442997607727124",
+  "logChannelId": "525655026690031671",
 
   "prefix": "!",
   "snippetPrefix": "!!",
   "snippetPrefixAnon": "!!!",
 
   "status": "Message me for help!",
-  "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible.",
+  "responseMessage": null,
   "closeMessage": null,
   "allowUserClose": false,
 
-  "newThreadCategoryId": null,
+  "newThreadCategoryId": "525654488145723392",
   "mentionRole": "here",
   "pingOnBotMention": true,
   "botMentionResponse": null,
@@ -63,19 +63,19 @@ const defaultConfig = {
   "alwaysReply": false,
   "alwaysReplyAnon": false,
   "useNicknames": false,
-  "ignoreAccidentalThreads": false,
+  "ignoreAccidentalThreads": true,
   "threadTimestamps": false,
   "allowMove": false,
-  "typingProxy": false,
-  "typingProxyReverse": false,
+  "typingProxy": true,
+  "typingProxyReverse": true,
   "mentionUserInThreadHeader": false,
 
   "enableGreeting": false,
   "greetingMessage": null,
   "greetingAttachment": null,
 
-  "requiredAccountAge": null, // In hours
-  "accountAgeDeniedMessage": "Your Discord account is not old enough to contact modmail.",
+  "requiredAccountAge": 24, // In hours
+  "accountAgeDeniedMessage": "Your Discord account is not old enough to contact me!",
 
   "relaySmallAttachmentsAsAttachments": false,
   "smallAttachmentLimit": 1024 * 1024 * 2,
