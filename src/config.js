@@ -40,10 +40,10 @@ try {
 }
 
 const defaultConfig = {
-  "token": 'NTI1NjQ4NjAyNDMzODQ3MzA2.Dv5yCQ.aZAtUo7vr-dI4A13o6ok0_pRHTw',
-  "mailGuildId": "525653890981560320",
-  "mainGuildId": "501442997607727124",
-  "logChannelId": "525655026690031671",
+  "token": process.env.TOKEN,
+  "mailGuildId": "537606168856494100",
+  "mainGuildId": "536932666600194070",
+  "logChannelId": "537609101463650304",
 
   "prefix": "!",
   "snippetPrefix": "!!",
