@@ -54,7 +54,7 @@ const defaultConfig = {
   "closeMessage": null,
   "allowUserClose": false,
 
-  "newThreadCategoryId": "525654488145723392",
+  "newThreadCategoryId": "537610733748486174",
   "mentionRole": "here",
   "pingOnBotMention": true,
   "botMentionResponse": null,
